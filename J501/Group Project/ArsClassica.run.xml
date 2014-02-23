@@ -44,38 +44,33 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>ArsClassica.bcf</file>
+      <file>ArsClassica.aux</file>
+      <file>ArsClassica-blx.bib</file>
     </provides>
     <requires type="dynamic">
       <file>ArsClassica.bbl</file>
     </requires>
     <requires type="static">
-      <file>blx-dm.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
-      <file>blx-natbib.def</file>
-      <file>philosophy-modern.bbx</file>
-      <file>philosophy-classic.bbx</file>
-      <file>authoryear.bbx</file>
+      <file>numeric.bbx</file>
       <file>standard.bbx</file>
-      <file>philosophy-standard.bbx</file>
-      <file>philosophy-modern.cbx</file>
-      <file>philosophy-classic.cbx</file>
-      <file>authoryear-comp.cbx</file>
+      <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
       <file>american.lbx</file>
-      <file>english-philosophy.lbx</file>
       <file>english.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="1">
-    <generic>biber</generic>
+    <generic>bibtex</generic>
     <cmdline>
-      <binary>biber</binary>
+      <binary>bibtex8</binary>
+      <option>--wolfgang</option>
+      <option>--min_crossrefs 2</option>
       <infile>ArsClassica</infile>
     </cmdline>
     <input>
-      <file>ArsClassica.bcf</file>
+      <file>ArsClassica.aux</file>
     </input>
     <output>
       <file>ArsClassica.bbl</file>
@@ -84,10 +79,15 @@
       <file>ArsClassica.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>ArsClassica.bcf</file>
+      <file>ArsClassica.aux</file>
+      <file>ArsClassica-blx.bib</file>
     </requires>
     <requires type="editable">
+      <file>bibliography.bib</file>
       <file>Bibliography.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
     </requires>
   </external>
 </requests>

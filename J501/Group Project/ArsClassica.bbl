@@ -1,0 +1,36 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+CPSC%
+\AX{cpsc
+@CPSC}%
+}{%
+CPSC%
+\AX{cpsc
+@CPSC}%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+cpsc}
+\APACinsertmetastar {%
+cpsc}%
+\begin{APACrefauthors}%
+CPSC.%
+\AX{cpsc
+@CPSC}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {{Dorel Asia Recalls To Replace Cribs; Pose Strangulation and
+  Suffocation Hazards}.} {{Dorel Asia Recalls To Replace Cribs; Pose
+  Strangulation and Suffocation Hazards}.}
+\newblock
+\APAChowpublished
+  {\url{http://www.cpsc.gov/en/Recalls/2010/Dorel-Asia-Recalls-To-Replace-Cribs-Pose-Strangulation-and-Suffocation-Hazards/}}.
+\newblock
+\APACrefnote{[Online; accessed 23-February-2014]}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

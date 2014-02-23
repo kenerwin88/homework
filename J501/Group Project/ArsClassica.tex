@@ -9,7 +9,6 @@
 \usepackage[T1]{fontenc}
 \usepackage{amsmath,amssymb,amsthm}
 \usepackage{varioref}
-\usepackage[style=philosophy-modern,hyperref,square,natbib]{biblatex}
 \usepackage{chngpage}
 \usepackage{calc}
 \usepackage{listings}
@@ -22,6 +21,9 @@
 \usepackage{lipsum}
 \usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing,listings]{classicthesis}
 \usepackage{arsclassica}
+\usepackage{apacite}
+\bibliographystyle{apacitex}
+\usepackage{url}
 \makeindex
 
 \input{arsclassica-settings}
@@ -49,8 +51,9 @@
 % Backmatter
 %******************************************************************
 \clearpage
-\input{FrontBackMatter/Bibliography}
+\bibliography{bibliography}{}
 \clearpage
+\bibliographystyle{plain}
 \input{FrontBackMatter/Index}
 
 \end{document}

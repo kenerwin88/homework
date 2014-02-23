@@ -112,9 +112,7 @@
 \index{Pacchetto!#1@\texttt{#1}}%
 \index{#1@\texttt{#1}}}
 
-\DeclareRobustCommand*{\bibtex}{\textsc{Bib}\TeX%
-\index{bibtex@\textsc{Bib}\protect\TeX}%
-}
+
 
 \DeclareRobustCommand*{\amseuler}{\protect\AmS{} Euler%
 \index{AmS Euler@\protect\AmS~Euler}%
@@ -183,40 +181,6 @@ Bera Mono Vera Classic-Thesis suite Knuth Zapf}
 % ********************************************************************
 % biblatex
 % ******************************************************************** 
-
-\bibliography{Bibliography}
-
-\renewcommand{\nameyeardelim}{, }
-
-\defbibheading{bibliography}{%
-\cleardoublepage
-\manualmark
-\phantomsection
-\addcontentsline{toc}{chapter}{\tocEntry{\bibname}}
-\chapter*{\bibname\markboth{\spacedlowsmallcaps{\bibname}}
-{\spacedlowsmallcaps{\bibname}}}}     
-
-  \DeclareCiteCommand{\citeyearpar}[\mkbibparens] 
-  {\boolfalse{citetracker}% 
-   \boolfalse{pagetracker}% 
-   \usebibmacro{prenote}} 
-  {\printtext[bibhyperref]{\printfield{year}}} 
-  {\multicitedelim} 
-  {\usebibmacro{postnote}} 
-
-\makeatletter 
-  \DeclareCiteCommand{\citetalias} 
-  {\usebibmacro{prenote}} 
-  {\usebibmacro{citeindex}% 
-   \bibhyperref{\@citealias{\thefield{entrykey}}}} 
-  {\multicitedelim} 
-  {\usebibmacro{postnote}} 
-\makeatother 
-
-\setcounter{biburlnumpenalty}{9000}
-\setcounter{biburlucpenalty}{9000}
-\setcounter{biburllcpenalty}{9000}
-
 
 % ********************************************************************
 % other commands
