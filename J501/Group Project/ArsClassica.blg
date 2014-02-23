@@ -1,9 +1,11 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: ArsClassica.aux
 The style file: apacitex.bst
-Illegal, another \bibstyle command---line 107 of file ArsClassica.aux
+Illegal, another \bibstyle command---line 110 of file ArsClassica.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
 Database file #1: bibliography.bib
+Warning--entry type for "dorel" isn't style-file defined
+--line 13 of file bibliography.bib
 apacitex.bst [2012/02/25 v6.01 APA bibl. style with author index info]
 (There was 1 error message)

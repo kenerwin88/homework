@@ -30,7 +30,38 @@ CPSC.%
 \APAChowpublished
   {\url{http://www.cpsc.gov/en/Recalls/2010/Dorel-Asia-Recalls-To-Replace-Cribs-Pose-Strangulation-and-Suffocation-Hazards/}}.
 \newblock
-\APACrefnote{[Online; accessed 23-February-2014]}
+\APACrefnote{Online; accessed February 23 2014}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Industries%
+\AX{industries  d
+@Industries, D.}%
+}{%
+Industries%
+\AX{industries  d
+@Industries, D.}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+dorel}
+\APACinsertmetastar {%
+dorel}%
+\begin{APACrefauthors}%
+Industries, D.%
+\AX{industries  d
+@Industries, D.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Corporate History.} {Corporate history.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL} \url{http://www.dorel.com/eng/corporate-history}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
