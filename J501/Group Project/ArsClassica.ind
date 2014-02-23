@@ -1,6 +1,6 @@
 \begin{theindex}
 
-  \item \texttt  {beramono}, \hyperpage{1}
+  \item \texttt  {beramono}, \hyperpage{2}
 
   \indexspace
 
@@ -19,16 +19,12 @@
 
   \indexspace
 
-  \item \texttt  {eulerchapternumbers}, \hyperpage{1}
-  \item \texttt  {eulermath}, \hyperpage{1}
+  \item \texttt  {eulerchapternumbers}, \hyperpage{2}
+  \item \texttt  {eulermath}, \hyperpage{2}
 
   \indexspace
 
-  \item \textsf  {hyperref}, \hyperpage{7}
-
-  \indexspace
-
-  \item Iwona, \hyperpage{2}, \hyperpage{5, 6}, \hyperpage{8}
+  \item Iwona, \hyperpage{2}
 
   \indexspace
 
@@ -37,21 +33,18 @@
   \indexspace
 
   \item MiK\TeX , \hyperpage{1}
-  \item \textsf  {minitoc}, \hyperpage{8}
 
   \indexspace
 
   \item Option
-    \subitem \texttt  {beramono}, \hyperpage{1}
-    \subitem \texttt  {eulerchapternumbers}, \hyperpage{1}
-    \subitem \texttt  {eulermath}, \hyperpage{1}
+    \subitem \texttt  {beramono}, \hyperpage{2}
+    \subitem \texttt  {eulerchapternumbers}, \hyperpage{2}
+    \subitem \texttt  {eulermath}, \hyperpage{2}
 
   \indexspace
 
   \item Package
     \subitem \textsf  {classicthesis}, \hyperpage{1}
-    \subitem \textsf  {hyperref}, \hyperpage{7}
-    \subitem \textsf  {minitoc}, \hyperpage{8}
 
   \indexspace
 

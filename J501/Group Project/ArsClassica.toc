@@ -4,17 +4,17 @@
 \defcounter {refsection}{0}\relax 
 \vspace {-\cftbeforechapskip }
 \defcounter {refsection}{0}\relax 
-\select@language {italian}
+\select@language {american}
 \defcounter {refsection}{0}\relax 
 \select@language {american}
 \defcounter {refsection}{0}\relax 
-\select@language {italian}
+\select@language {american}
 \defcounter {refsection}{0}\relax 
 \select@language {american}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Fundamentals}}{1}{chapter.1}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {About Dorel Industries}}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}History of Dorel Industries}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Use of the package}{1}{section.1.2}
 \defcounter {refsection}{0}\relax 
@@ -22,10 +22,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}New commands}{2}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Examples}{2}{section.1.5}
+\contentsline {section}{\numberline {1.5}Examples}{3}{section.1.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{A paragraph}{4}{figure.caption.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {The code}}{5}{chapter.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\spacedlowsmallcaps {Index}}{10}{section*.9}
+\contentsline {chapter}{\spacedlowsmallcaps {Index}}{5}{section*.9}
