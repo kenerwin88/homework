@@ -24,10 +24,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Juvenile}{3}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}New commands}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.2}Recreational/Leisure}{3}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Examples}{3}{section.2.4}
+\contentsline {subsection}{\numberline {2.2.3}Home Furnishings}{3}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{A paragraph}{5}{figure.caption.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\spacedlowsmallcaps {Index}}{6}{section*.9}
+\contentsline {chapter}{\spacedlowsmallcaps {Index}}{4}{section*.10}
