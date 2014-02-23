@@ -5,7 +5,7 @@
 \select@language {american}
 \select@language {american}
 \contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {About Dorel Industries}}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Recent Strategic Moves (2013)}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}Recent Strategic Moves}{1}{section.1.1}
 \contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Business Overview}}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Business Definition}{2}{section.2.1}
 \contentsline {section}{\numberline {2.2}Business Unit Breakdown}{2}{section.2.2}

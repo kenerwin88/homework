@@ -1,11 +1,28 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: ArsClassica.aux
 The style file: apacitex.bst
-Illegal, another \bibstyle command---line 110 of file ArsClassica.aux
+Illegal, another \bibstyle command---line 143 of file ArsClassica.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
 Database file #1: bibliography.bib
-Warning--entry type for "dorel" isn't style-file defined
---line 13 of file bibliography.bib
+Warning--entry type for "BRAINStaff2013" isn't style-file defined
+--line 4 of file bibliography.bib
+Warning--entry type for "Carpiet2014" isn't style-file defined
+--line 16 of file bibliography.bib
+Warning--entry type for "DorelIndustries2013" isn't style-file defined
+--line 36 of file bibliography.bib
+Warning--entry type for "Hoovers2014" isn't style-file defined
+--line 56 of file bibliography.bib
+Warning--entry type for "Marotte2014" isn't style-file defined
+--line 67 of file bibliography.bib
+Warning--entry type for "Smith2014" isn't style-file defined
+--line 78 of file bibliography.bib
+Warning--entry type for "Symon2014" isn't style-file defined
+--line 90 of file bibliography.bib
+Warning--entry type for "VoiceofAmerica2009" isn't style-file defined
+--line 102 of file bibliography.bib
+Warning--entry type for "YahooFinance2014" isn't style-file defined
+--line 112 of file bibliography.bib
+Warning--I didn't find a database entry for "DorelIndustries2014"
 apacitex.bst [2012/02/25 v6.01 APA bibl. style with author index info]
 (There was 1 error message)

@@ -1,23 +1,89 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-CPSC%
-\AX{cpsc
-@CPSC}%
+{BRAIN Staff}%
+\AX{brain staff
+@{BRAIN Staff}}%
 }{%
-CPSC%
-\AX{cpsc
-@CPSC}%
+{BRAIN Staff}%
+\AX{brain staff
+@{BRAIN Staff}}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+BRAINStaff2013}
+\APACinsertmetastar {%
+BRAINStaff2013}%
+\begin{APACrefauthors}%
+{BRAIN Staff}.%
+\AX{brain staff
+@{BRAIN Staff}}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{August}{}.
+\newblock
+\APACrefbtitle {Dorel becomes majority owner of Brazilian bike brand Caloi.}
+  {Dorel becomes majority owner of brazilian bike brand caloi.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.bicycleretailer.com/international/2013/08/22/dorel-becomes-majority-owner-brazilian-bike-brand-caloi#.UwpT2PldV8E}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Carpiet%
+\AX{carpiet  l
+@Carpiet, L.}%
+}{%
+Carpiet%
+\AX{carpiet  l
+@Carpiet, L.}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Carpiet2014}
+\APACinsertmetastar {%
+Carpiet2014}%
+\begin{APACrefauthors}%
+Carpiet, L.%
+\AX{carpiet  l
+@Carpiet, L.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{January}{}.
+\newblock
+\APACrefbtitle {Dorel restructures bike business.} {Dorel restructures bike
+  business.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.bicycleretailer.com/industry-news/2014/01/23/dorel-restructures-bike-business}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Commission%
+\AX{commission  cps
+@Commission, C\BPBI P\BPBI S.}%
+}{%
+Commission%
+\AX{commission  cps
+@Commission, C\BPBI P\BPBI S.}%
 }{%
 {\protect \APACyear {2010}}%
 }]{%
-cpsc}
+Commission2010}
 \APACinsertmetastar {%
-cpsc}%
+Commission2010}%
 \begin{APACrefauthors}%
-CPSC.%
-\AX{cpsc
-@CPSC}%
+Commission, C\BPBI P\BPBI S.%
+\AX{commission  cps
+@Commission, C\BPBI P\BPBI S.}%
 \end{APACrefauthors}%
 \unskip\
 \newblock
@@ -34,23 +100,54 @@ CPSC.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Industries%
-\AX{industries  d
-@Industries, D.}%
+{Dorel Industries}%
+\AX{dorel industries
+@{Dorel Industries}}%
 }{%
-Industries%
-\AX{industries  d
-@Industries, D.}%
+{Dorel Industries}%
+\AX{dorel industries
+@{Dorel Industries}}%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+DorelIndustries2012}
+\APACinsertmetastar {%
+DorelIndustries2012}%
+\begin{APACrefauthors}%
+{Dorel Industries}.%
+\AX{dorel industries
+@{Dorel Industries}}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {Dorel 2012 Annual Report.} {Dorel 2012 annual report.}
+\newblock
+\APAChowpublished {PDF}.
+\newblock
+\begin{APACrefDOI} \doi{http://www.dorel.com/eng/CMS/DII_AR_2012_ENG_VF.pdf}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Dorel Industries}%
+\AX{dorel industries
+@{Dorel Industries}}%
+}{%
+{Dorel Industries}%
+\AX{dorel industries
+@{Dorel Industries}}%
 }{%
 {\protect \APACyear {2013}}%
 }]{%
-dorel}
+DorelIndustries2013}
 \APACinsertmetastar {%
-dorel}%
+DorelIndustries2013}%
 \begin{APACrefauthors}%
-Industries, D.%
-\AX{industries  d
-@Industries, D.}%
+{Dorel Industries}.%
+\AX{dorel industries
+@{Dorel Industries}}%
 \end{APACrefauthors}%
 \unskip\
 \newblock
@@ -61,6 +158,202 @@ Industries, D.%
 \APAChowpublished {Online}.
 \newblock
 \begin{APACrefURL} \url{http://www.dorel.com/eng/corporate-history}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hoovers%
+\AX{hoovers
+@Hoovers}%
+}{%
+Hoovers%
+\AX{hoovers
+@Hoovers}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Hoovers2014}
+\APACinsertmetastar {%
+Hoovers2014}%
+\begin{APACrefauthors}%
+Hoovers.%
+\AX{hoovers
+@Hoovers}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {Dorel Industries Inc. Competition.} {Dorel industries inc.
+  competition.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.hoovers.com/company-information/cs/competition.Dorel_Industries_Inc.0674c41c7bb81c60.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marotte%
+\AX{marotte  b
+@Marotte, B.}%
+}{%
+Marotte%
+\AX{marotte  b
+@Marotte, B.}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Marotte2014}
+\APACinsertmetastar {%
+Marotte2014}%
+\begin{APACrefauthors}%
+Marotte, B.%
+\AX{marotte  b
+@Marotte, B.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{January}{}.
+\newblock
+\APACrefbtitle {Dorel to shutter U.S. bike plant, shift work to Asia.} {Dorel
+  to shutter u.s. bike plant, shift work to asia.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.theglobeandmail.com/report-on-business/dorel-to-shutter-us-bike-plant-shift-work-to-asia/article16464626/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Smith%
+\AX{smith  n
+@Smith, N.}%
+}{%
+Smith%
+\AX{smith  n
+@Smith, N.}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Smith2014}
+\APACinsertmetastar {%
+Smith2014}%
+\begin{APACrefauthors}%
+Smith, N.%
+\AX{smith  n
+@Smith, N.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{February}{}.
+\newblock
+\APACrefbtitle {3 Ways to Invest in Canada's Olympic Team.} {3 ways to invest
+  in canada's olympic team.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.fool.ca/2014/02/10/3-ways-to-invest-in-canadas-olympic-team/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Symon%
+\AX{symon  j
+@Symon, J.}%
+}{%
+Symon%
+\AX{symon  j
+@Symon, J.}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Symon2014}
+\APACinsertmetastar {%
+Symon2014}%
+\begin{APACrefauthors}%
+Symon, J.%
+\AX{symon  j
+@Symon, J.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{February}{}.
+\newblock
+\APACrefbtitle {Dorel Reports Weak 4th Quarter - Soft Bike Market to Blame.}
+  {Dorel reports weak 4th quarter - soft bike market to blame.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{http://pedalmag.com/dorel-reports-weak-4th-quarter-soft-bike-market-to-blame/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Voice of America}%
+\AX{voice of america
+@{Voice of America}}%
+}{%
+{Voice of America}%
+\AX{voice of america
+@{Voice of America}}%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+VoiceofAmerica2009}
+\APACinsertmetastar {%
+VoiceofAmerica2009}%
+\begin{APACrefauthors}%
+{Voice of America}.%
+\AX{voice of america
+@{Voice of America}}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{November}{}.
+\newblock
+\APACrefbtitle {Major US Bicycle Maker Outsourcing to Asia.} {Major us bicycle
+  maker outsourcing to asia.}
+\newblock
+\begin{APACrefURL}
+  \url{http://www.voanews.com/content/a-13-2009-04-25-voa26-68799667/412015.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Yahoo Finance}%
+\AX{yahoo finance
+@{Yahoo Finance}}%
+}{%
+{Yahoo Finance}%
+\AX{yahoo finance
+@{Yahoo Finance}}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+YahooFinance2014}
+\APACinsertmetastar {%
+YahooFinance2014}%
+\begin{APACrefauthors}%
+{Yahoo Finance}.%
+\AX{yahoo finance
+@{Yahoo Finance}}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{February}{}.
+\newblock
+\APACrefbtitle {Dorel Industries Inc. (DII-A.TO).} {Dorel industries inc.
+  (dii-a.to).}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL}
+  \url{http://finance.yahoo.com/echarts?s=DII-A.TO+Interactive}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
