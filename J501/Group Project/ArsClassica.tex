@@ -1,8 +1,8 @@
-\documentclass[10pt,a4paper,twoside,openright,titlepage,fleqn,%
+\documentclass[10pt,a4paper,twoside,openany,titlepage,fleqn,%
                headinclude,,footinclude,BCOR5mm,%
                numbers=noenddot,oneside,cleardoublepage=empty,%
                tablecaptionabove]{scrreprt}
-               
+
 \usepackage[italian,american]{babel}
 %\usepackage[applemac]{inputenc}
 \usepackage[utf8]{inputenc}
@@ -24,18 +24,41 @@
 \usepackage{apacite}
 \bibliographystyle{apacitex}
 \usepackage{url}
-\makeindex
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{eso-pic}
+ 
 
+ \newcommand\BackgroundPicA{\put(-10,-10){{
+\begin{tikzpicture}%
+\node[opacity=.4]{%
+\includegraphics[scale=.22]{watermark4.jpg}};%
+\end{tikzpicture}%
+}}}
+\newcommand\BackgroundPicB{\put(-300,-10){{
+\begin{tikzpicture}%
+\node[opacity=.4]{%
+\includegraphics[scale=.71]{watermark2.jpg}};%
+\end{tikzpicture}%
+}}}
+\makeindex
+\makeatletter%
+
+\AddToShipoutPicture*{\BackgroundPicB}%
+\AddToShipoutPicture{\BackgroundPicA}%
+\makeatother
 \input{arsclassica-settings}
 
 \begin{document}
+
 \pagenumbering{roman}
 \pagestyle{plain}
 %******************************************************************
 % Frontmatter
 %******************************************************************
 \input{FrontBackMatter/Titlepage}
-\clearpage
+
 \input{FrontBackMatter/Abstract+Sommario}
 \input{FrontBackMatter/Acknowledgements}
 \pagestyle{scrheadings} 

@@ -9,6 +9,38 @@
 \AX{brain staff
 @{BRAIN Staff}}%
 }{%
+{\protect \APACyear {2012}}%
+}]{%
+BRAINStaff2012}
+\APACinsertmetastar {%
+BRAINStaff2012}%
+\begin{APACrefauthors}%
+{BRAIN Staff}.%
+\AX{brain staff
+@{BRAIN Staff}}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {Dorels head of bike: Acquisitions, product and targeted
+  spending to drive growth.} {Dorels head of bike: Acquisitions, product and
+  targeted spending to drive growth.}
+\newblock
+\begin{APACrefURL}
+  \url{http://www.bicycleretailer.com/north-america/2012/10/10/dorel-head-bike-acquisitions-product-and-targeted-spending-drive-growth}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{BRAIN Staff}%
+\AX{brain staff
+@{BRAIN Staff}}%
+}{%
+{BRAIN Staff}%
+\AX{brain staff
+@{BRAIN Staff}}%
+}{%
 {\protect \APACyear {2013}}%
 }]{%
 BRAINStaff2013}
@@ -89,9 +121,9 @@ Commission, C\BPBI P\BPBI S.%
 \newblock
 \APACrefYearMonthDay{2010}{}{}.
 \newblock
-\APACrefbtitle {{Dorel Asia Recalls To Replace Cribs; Pose Strangulation and
-  Suffocation Hazards}.} {{Dorel Asia Recalls To Replace Cribs; Pose
-  Strangulation and Suffocation Hazards}.}
+\APACrefbtitle {Dorel Asia Recalls To Replace Cribs; Pose Strangulation and
+  Suffocation Hazards.} {Dorel asia recalls to replace cribs; pose
+  strangulation and suffocation hazards.}
 \newblock
 \APAChowpublished
   {\url{http://www.cpsc.gov/en/Recalls/2010/Dorel-Asia-Recalls-To-Replace-Cribs-Pose-Strangulation-and-Suffocation-Hazards/}}.
@@ -158,6 +190,36 @@ DorelIndustries2013}%
 \APAChowpublished {Online}.
 \newblock
 \begin{APACrefURL} \url{http://www.dorel.com/eng/corporate-history}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guru%
+\AX{guru
+@Guru}%
+}{%
+Guru%
+\AX{guru
+@Guru}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Guru2014}
+\APACinsertmetastar {%
+Guru2014}%
+\begin{APACrefauthors}%
+Guru.%
+\AX{guru
+@Guru}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {Welcome to the Guru Experience.} {Welcome to the guru
+  experience.}
+\newblock
+\begin{APACrefURL} \url{http://www.gurucycling.com/the-experience/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 

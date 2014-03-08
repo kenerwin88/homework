@@ -9,7 +9,7 @@
 \contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Business Overview}}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Business Definition}{2}{section.2.1}
 \contentsline {section}{\numberline {2.2}Business Unit Breakdown}{2}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Juvenile}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Juvenile}{2}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Recreational/Leisure}{3}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}Home Furnishings}{3}{subsection.2.2.3}
 \contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Modified BCG}}{4}{chapter.3}
@@ -20,7 +20,7 @@
 \contentsline {section}{\numberline {4.1}Vision}{5}{section.4.1}
 \contentsline {section}{\numberline {4.2}Internal Consistency}{5}{section.4.2}
 \contentsline {section}{\numberline {4.3}External Fit}{5}{section.4.3}
-\contentsline {section}{\numberline {4.4}Corporate Advantage}{6}{section.4.4}
+\contentsline {section}{\numberline {4.4}Corporate Advantage}{5}{section.4.4}
 \contentsline {section}{\numberline {4.5}Feasiblity}{6}{section.4.5}
 \contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Financial Analysis}}{7}{chapter.5}
 \contentsline {section}{\numberline {5.1}Revenue}{7}{section.5.1}
@@ -33,5 +33,9 @@
 \contentsline {section}{\numberline {5.3}Financial Performance by Unit}{9}{section.5.3}
 \contentsline {chapter}{\numberline {6}\spacedlowsmallcaps {Balanced Scorecard}}{10}{chapter.6}
 \contentsline {chapter}{\numberline {7}\spacedlowsmallcaps {SWOT Analysis}}{11}{chapter.7}
-\contentsline {section}{References}{12}{section*.10}
-\contentsline {chapter}{\spacedlowsmallcaps {Index}}{13}{section*.11}
+\contentsline {chapter}{\numberline {8}\spacedlowsmallcaps {Recommendations}}{12}{chapter.8}
+\contentsline {section}{\numberline {8.1}Establish a BHAG}{12}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}International Premium Bicycle BHAG Roadmap}{12}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Quality over Quantity}{12}{section.8.2}
+\contentsline {section}{References}{13}{section.8.2}
+\contentsline {chapter}{\spacedlowsmallcaps {Index}}{14}{section*.10}
